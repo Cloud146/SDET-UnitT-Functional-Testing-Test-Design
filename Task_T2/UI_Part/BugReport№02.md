@@ -8,6 +8,7 @@
 
 **Предусловия:**
 - На Яндекс.Диск загружены несколько файлов
+
 ![Скриншот файлов](\Task_T2\Screens\Screen2.png "Скриншот файлов")
 
 ![Скриншот файлов](https://github.com/Cloud146/SDET-UnitT-Functional-Testing-Test-Design/blob/TaskT2-BugReport/Task_T2/Screens/Screen2.png "Скриншот файлов")
