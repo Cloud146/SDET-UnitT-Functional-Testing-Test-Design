@@ -9,9 +9,9 @@
 **Предусловия:**
 - На Яндекс.Диск загружены несколько файлов
 
-![Скриншот файлов](\Task_T2\Screens\Screen2.png "Скриншот файлов")
+![Скриншот файлов(локальный)](\Task_T2\Screens\Screen2.png "Скриншот файлов")
 
-![Скриншот файлов](https://github.com/Cloud146/SDET-UnitT-Functional-Testing-Test-Design/blob/TaskT2-BugReport/Task_T2/Screens/Screen2.png "Скриншот файлов")
+![Скриншот файлов(гит)](https://github.com/Cloud146/SDET-UnitT-Functional-Testing-Test-Design/blob/TaskT2-BugReport/Task_T2/Screens/Screen2.png "Скриншот файлов")
 
 
 **Шаги:**
@@ -24,4 +24,6 @@
 **Фактический результат:**
 - Отображаются не все файлы
 
-![Скриншот фактического результата](\Task_T2\Screens\Screen3.png "Скриншот фактического результата")
+![Скриншот фактического результата(локальный)](\Task_T2\Screens\Screen3.png "Скриншот фактического результата")
+
+![Скриншот фактического результата(гит)](https://github.com/Cloud146/SDET-UnitT-Functional-Testing-Test-Design/blob/TaskT2-BugReport/Task_T2/Screens/Screen3.png "Скриншот фактического результата")
