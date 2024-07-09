@@ -8,7 +8,10 @@
 
 **Предусловия:**
 - На Яндекс.Диск загружены несколько файлов
-![Скриншот файлов](\Screens\Screen2.png "Скриншот файлов")
+![Скриншот файлов](\Task_T2\Screens\Screen2.png "Скриншот файлов")
+
+![Скриншот файлов]([\Task_T2\Screens\Screen2.png](https://github.com/Cloud146/SDET-UnitT-Functional-Testing-Test-Design/blob/TaskT2-BugReport/Task_T2/Screens/Screen2.png) "Скриншот файлов")
+
 
 **Шаги:**
 1. Открыть Яндекс.Диск
