@@ -136,9 +136,8 @@ Cервис А принимает запросы на изменения сос�
 
 ![Схема сервисов(локальный)](\Task_T4\Task4Pic.png "Схема сервисов")
 
-![Схема сервисов(гит)]([\Task_T4\Task4Pic.png](https://github.com/Cloud146/SDET-UnitT-Functional-Testing-Test-Design/blob/TaskT3-TestPlan/Task_T4/Task4Pic.png) "Схема сервисов")
+![Схема сервисов(гит)](https://github.com/Cloud146/SDET-UnitT-Functional-Testing-Test-Design/blob/TaskT3-TestPlan/Task_T4/Task4Pic.png "Схема сервисов")
 
-https://github.com/Cloud146/SDET-UnitT-Functional-Testing-Test-Design/blob/TaskT3-TestPlan/Task_T4/Task4Pic.png
 
 **Требуется:**
 - Составить план тестирования
